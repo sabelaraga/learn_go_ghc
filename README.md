@@ -44,7 +44,7 @@ Material for the "Let's Learn Go" Workshop
     * Solution: https://play.golang.org/p/PZ6Etq0_Ecv
 
 *   Exercise Extra: Add boolean to know if it's the last and print that (If)
-  * Exercise: https://play.golang.org/p/_Tn04jsKkbq
-  * Half solution: https://play.golang.org/p/WSzl0mF3zQN
-  * Solution (break the loop): https://play.golang.org/p/Ud-wRiX991x
+    * Exercise: https://play.golang.org/p/_Tn04jsKkbq
+    * Half solution: https://play.golang.org/p/WSzl0mF3zQN
+    * Solution (break the loop): https://play.golang.org/p/Ud-wRiX991x
 
