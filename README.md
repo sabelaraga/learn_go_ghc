@@ -1,5 +1,9 @@
 # learn_go_ghc
-Material for the "Let's Learn Go" Workshop
+This repository has the maaterial for the "Let's Learn Go" Workshop.
+
+We will use the Go Playground to run the exercises. In case there are internet issues, we recommend you to download the CheatSheet and the exercises prior to the session. You can also install the Go binary to run it in your computer (see details in the CheatSheet).
+
+This is the list of playgrounds we will use during the session.
 
 *   hello: https://play.golang.org
 
