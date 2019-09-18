@@ -1,5 +1,5 @@
 # learn_go_ghc
-This repository has the maaterial for the "Let's Learn Go" Workshop.
+This repository has the material for the "Let's Learn Go" Workshop.
 
 We will use the Go Playground to run the exercises. In case there are internet issues, we recommend you to download the CheatSheet and the exercises prior to the session. You can also install the Go binary to run it in your computer (see details in the CheatSheet).
 
@@ -43,7 +43,7 @@ This is the list of playgrounds we will use during the session.
     * Exercise c: extract the loops to functions
     * Solution c: https://play.golang.org/p/wFNYa9Rj44D
 
-*   Exercise 7: Add number to identify order
+*   Exercise Extra: Add number to identify order
     * Exercise: https://play.golang.org/p/6YUoFK-1ypx
     * Solution: https://play.golang.org/p/PZ6Etq0_Ecv
 
@@ -52,3 +52,14 @@ This is the list of playgrounds we will use during the session.
     * Half solution: https://play.golang.org/p/WSzl0mF3zQN
     * Solution (break the loop): https://play.golang.org/p/Ud-wRiX991x
 
+*  Exercise 9: Write messages to a channel instead of a list.
+    * Exercide: https://play.golang.org/p/GD_H3wN7_RM
+    * Solution (spot the problem): https://play.golang.org/p/5mrtCVIExuT
+
+*   Exercise 10: How to ensure program doesn't quit before printing all messages
+    * Exercise: https://play.golang.org/p/b8hXBoOA2ya
+    * Solution: https://play.golang.org/p/YjENh5ULfIV
+    
+*   Exercise 11: Test the producer
+    * Exercise: https://play.golang.org/p/ZTG0MM1GNGw
+    * Solution: https://play.golang.org/p/hqI_xM5DAHo
