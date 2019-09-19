@@ -36,7 +36,7 @@ func NewMessage(text string) Message{
 
 func CreateMessages(texts [] string) [] Message{
 	var msgList []Message
-	for _,text := range msgs{
+	for _,text := range texts{
 		msgList = append(msgList, NewMessage(text))
 	}
 	return msgList
