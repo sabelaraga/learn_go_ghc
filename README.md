@@ -41,16 +41,16 @@ This is the list of playgrounds we will use during the session.
     * Exercise b: use two loops, one to create messages, another to print them.
     * Solution b: https://play.golang.org/p/283grJuzJ1Z
     * Exercise c: extract the loops to functions
-    * Solution c: https://play.golang.org/p/wFNYa9Rj44D
+    * Solution c: https://play.golang.org/p/RHRTN-NxuTx
 
-*   Exercise Extra: Add number to identify order
-    * Exercise: https://play.golang.org/p/6YUoFK-1ypx
-    * Solution: https://play.golang.org/p/PZ6Etq0_Ecv
+*   Exercise 7 (Extra): Add number to identify order
+    * Exercise: https://play.golang.org/p/vuF6Q0D7rhl
+    * Solution: https://play.golang.org/p/5F-tIzEAGI7
 
-*   Exercise Extra: Add boolean to know if it's the last and print that (If)
-    * Exercise: https://play.golang.org/p/_Tn04jsKkbq
-    * Half solution: https://play.golang.org/p/WSzl0mF3zQN
-    * Solution (break the loop): https://play.golang.org/p/Ud-wRiX991x
+*   Exercise 8 (Extra): Add boolean to know if it's the last and print that (If)
+    * Exercise: https://play.golang.org/p/BxhVaTDUGI_T
+    * Half solution: https://play.golang.org/p/DHp5-f6IW8N
+    * Solution (break the loop): https://play.golang.org/p/BANYFOeOOvJ
 
 *  Exercise 9: Write messages to a channel instead of a list.
     * Exercide: https://play.golang.org/p/GD_H3wN7_RM
