@@ -53,7 +53,7 @@ This is the list of playgrounds we will use during the session.
     * Solution (break the loop): https://play.golang.org/p/BANYFOeOOvJ
 
 *  Exercise 9: Write messages to a channel instead of a list.
-    * Exercide: https://play.golang.org/p/GD_H3wN7_RM
+    * Exercise: https://play.golang.org/p/GD_H3wN7_RM
     * Solution (spot the problem): https://play.golang.org/p/5mrtCVIExuT
 
 *   Exercise 10: How to ensure program doesn't quit before printing all messages
