@@ -36,7 +36,7 @@ This is the list of playgrounds we will use during the session.
     * Solution: https://play.golang.org/p/Sl_MgyBZNB8
 
 *   Exercise 6: List of Messages (Array & Loop)
-    * Exercise: https://play.golang.org/p/weXQReIJPU7
+    * Exercise a: https://play.golang.org/p/weXQReIJPU7
     * Solution a:  https://play.golang.org/p/X66FIwauyXl
     * Exercise b: use two loops, one to create messages, another to print them.
     * Solution b: https://play.golang.org/p/283grJuzJ1Z
@@ -53,7 +53,7 @@ This is the list of playgrounds we will use during the session.
     * Solution (break the loop): https://play.golang.org/p/BANYFOeOOvJ
 
 *  Exercise 9: Write messages to a channel instead of a list.
-    * Exercide: https://play.golang.org/p/GD_H3wN7_RM
+    * Exercise: https://play.golang.org/p/GD_H3wN7_RM
     * Solution (spot the problem): https://play.golang.org/p/5mrtCVIExuT
 
 *   Exercise 10: How to ensure program doesn't quit before printing all messages
