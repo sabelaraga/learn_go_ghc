@@ -29,7 +29,6 @@ This is the list of playgrounds we will use during the session.
     *   Solution: https://play.golang.org/p/Q3vsjBY2qZp
 
 *   Exercise 5: Validate that the message is not empty
-    * Note: explain interfaces with this
     * Exercise: https://play.golang.org/p/GHzlVApSU0t
     * Hint: https://play.golang.org/p/k0j_pZnKS4w
     * Hint2: https://play.golang.org/p/uA_3gfa1Dr9
